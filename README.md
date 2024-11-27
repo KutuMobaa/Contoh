@@ -1,4 +1,4 @@
-ABS [ ADVANCED BATTERY SAVING ] work
+ABS [ ADVANCED BATTERY SAVING ] ini baru mantap
 
 ⦿ Advanced battery saving to save more battery 
 
