@@ -1,4 +1,4 @@
-ABS [ ADVANCED BATTERY SAVING ] ayolah bro
+ABS [ ADVANCED BATTERY SAVING ] bro
 
 ⦿ Advanced battery saving to save more battery 
 
