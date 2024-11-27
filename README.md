@@ -1,4 +1,4 @@
-ABS [ ADVANCED BATTERY SAVING ] bro
+ABS [ ADVANCED BATTERY SAVING ] bagaimana
 
 ⦿ Advanced battery saving to save more battery 
 
