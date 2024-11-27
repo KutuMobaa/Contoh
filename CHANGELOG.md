@@ -1,4 +1,4 @@
-ABS [ ADVANCED BATTERY SAVING ] V5.7 
+ABS [ ADVANCED BATTERY SAVING ] V5.7 beta
 
 ⦿ Advanced battery saving to save more battery 
 
