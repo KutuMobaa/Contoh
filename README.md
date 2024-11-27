@@ -1,4 +1,4 @@
-ABS [ ADVANCED BATTERY SAVING ] nyamok
+ABS [ ADVANCED BATTERY SAVING ]
 
 ⦿ Advanced battery saving to save more battery 
 
