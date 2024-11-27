@@ -1,4 +1,4 @@
-ABS [ ADVANCED BATTERY SAVING ] baru
+ABS [ ADVANCED BATTERY SAVING ] nyamok
 
 ⦿ Advanced battery saving to save more battery 
 
