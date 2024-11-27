@@ -1,4 +1,4 @@
-ABS [ ADVANCED BATTERY SAVING ] mencoba
+ABS [ ADVANCED BATTERY SAVING ] baru
 
 ⦿ Advanced battery saving to save more battery 
 
