@@ -1,4 +1,4 @@
-ABS [ ADVANCED BATTERY SAVING ] mati lampu
+ABS [ ADVANCED BATTERY SAVING ] apa ini
 
 ⦿ Advanced battery saving to save more battery 
 
